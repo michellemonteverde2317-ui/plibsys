@@ -1,4 +1,4 @@
-[![](https://github.com/saprykin/plibsys/actions/workflows/actions.yml/badge.svg)](https://github.com/saprykin/plibsys/actions)
+.[![](https://github.com/saprykin/plibsys/actions/workflows/actions.yml/badge.svg)](https://github.com/saprykin/plibsys/actions)
 [![](https://ci.appveyor.com/api/projects/status/yvu21lawtkkfpn4b/branch/master?svg=true)](https://ci.appveyor.com/project/saprykin/plibsys/branch/master)
 [![](https://sonarcloud.io/api/project_badges/measure?project=saprykin_plibsys&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=saprykin_plibsys)
 [![](https://scan.coverity.com/projects/8333/badge.svg)](https://scan.coverity.com/projects/saprykin-plibsys)
